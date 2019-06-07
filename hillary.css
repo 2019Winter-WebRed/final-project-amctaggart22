@@ -1,0 +1,106 @@
+/* Name: Annie McTaggart
+*  Date: May 30, 2019
+*  Final Project*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 70%;
+    background-color: #ffccff;
+    margin: 15px auto;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 230%;
+    color: saddlebrown;
+}
+
+header {
+    clear: both;
+    text-align: center;
+    border: 5px green dotted;
+    background-color: thistle;
+}
+/* left description*/
+#sidebarA {
+    width: 20%;
+    height: 550px;
+    float: left;
+    background-color: #e6ccff;
+    padding: 0 2%;
+    border: 5px dashed red;
+}
+
+main {
+    width: 46%;
+    height: 500px;
+    float: left;
+    padding: 1% 2%;
+}
+#sidebarB { /* right description*/
+    width: 20%;
+    height: 550px;
+    float: right;
+    background-color: #e6ccff;
+    padding: 0 2%;
+    border: 5px dashed red; 
+}
+footer {
+    clear: both;
+    border: 5px dotted blue;
+    padding: 1%;
+    background-color: thistle;
+}
+#photo{/* stuff for the pictures*/
+    height: 30%;
+    float: left;
+    margin: 3%;
+}
+#photo2{
+    height: 25%;
+}
+#photo3{
+    height:25%
+}
+.bold{
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+    color:darkblue;
+    
+}
+.paragraph {
+    font-size: 105%;
+}
+ol{
+    clear: both;
+    padding-left: 10%;
+}
+img{
+    border: 1px dotted purple;
+}
+.horse{
+    height: 28%;
+    margin: 2px;
+}
+h2{
+    color:teal;
+}
+ul{
+    padding-left: 3%;
+}
+
+
+
+
+
+
+
+
+
+
+
